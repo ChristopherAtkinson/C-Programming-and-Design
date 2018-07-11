@@ -37,6 +37,7 @@ Static and non-static objects should cast as well as receive shadows, which impl
 shadow mapping.
 
  Cameras
+
 ◦ Camera1:
 Overview camera on the outside of the sphere initially looking at its center with the
 sphere (nearly) filling the viewport
@@ -51,8 +52,7 @@ Interior camera that tracks the dragonfly as it flies
 Close up camera of the dragonfly’s eye
 
  Controls
-Note: the following key assignments are non-negotiable; they are expected to work in
-each submission to ease the demonstration process
+
 ◦ ‘ESC’ exits the application
 ◦ ‘r’ resets the application to its initial state
 ◦ Cameras are controlled by the cursor keys:
