@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Shader Files">
+      <UniqueIdentifier>{679f5d48-03f7-47a5-b644-bb3919c4b898}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine">
+      <UniqueIdentifier>{71e29e51-7a6e-415d-bc2a-79e299cd90b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine">
+      <UniqueIdentifier>{9e56f8ea-b634-4512-8a97-4267d125ae4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Lighting">
+      <UniqueIdentifier>{f6462973-471c-4060-a282-e4575db030b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lighting">
+      <UniqueIdentifier>{c27f1939-b4e7-47b6-9812-0a3e9f1c0c5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shaders">
+      <UniqueIdentifier>{2ebe1e4f-58cf-44ae-a695-524f5b36ccec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shaders">
+      <UniqueIdentifier>{afd74b56-748f-42c9-9f68-c708d1982072}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Particles">
+      <UniqueIdentifier>{406763d5-5529-4ae5-99ec-3a0988c6265d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Particles">
+      <UniqueIdentifier>{a6025a0d-6059-4739-b984-3cc1514b1a7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config Files">
+      <UniqueIdentifier>{be7520d0-a847-41eb-9364-9f9d7efeafed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\sdkmesh">
+      <UniqueIdentifier>{b0e0cddd-a3da-4c62-811c-38a5541c7933}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\texture">
+      <UniqueIdentifier>{f239af56-1fed-40b0-b884-0c91797dc82f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="winmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="message.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="texture_shader.cpp">
+      <Filter>Source Files\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="spotlight.cpp">
+      <Filter>Source Files\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="Particles.cpp">
+      <Filter>Source Files\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="Emitter.cpp">
+      <Filter>Source Files\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle_Shader.cpp">
+      <Filter>Source Files\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="Direct.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="window.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="message.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="texture_shader.h">
+      <Filter>Header Files\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="spotlight.h">
+      <Filter>Header Files\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="Particles.h">
+      <Filter>Header Files\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="Emitter.h">
+      <Filter>Header Files\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle_Shader.h">
+      <Filter>Header Files\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Direct.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Application.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="config.ini">
+      <Filter>Config Files</Filter>
+    </None>
+    <None Include="texture_shader.fx">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="base.sdkmesh">
+      <Filter>Resource Files\sdkmesh</Filter>
+    </None>
+    <None Include="hemisphere.sdkmesh">
+      <Filter>Resource Files\sdkmesh</Filter>
+    </None>
+    <None Include="Particles.fx">
+      <Filter>Shader Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="sand.dds">
+      <Filter>Resource Files\texture</Filter>
+    </Image>
+    <Image Include="wood.jpg">
+      <Filter>Resource Files\texture</Filter>
+    </Image>
+    <Image Include="cubemap.jpg">
+      <Filter>Resource Files\texture</Filter>
+    </Image>
+    <Image Include="particle.dds">
+      <Filter>Resource Files\texture</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

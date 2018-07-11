@@ -1,0 +1,32 @@
+#Sat Jan 06 11:53:21 GMT+00:00 2018
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.advanced.options=
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.cdt.configuration=CPPTEST_USE_ACTIVE_CONFIG
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.c.win32.x86=cl.exe
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.cpp.win32.x86=cl.exe
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.compiler.family.win32.x86=vc_14_0-64
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.compiler.options.win32.x86=${cpptest\:original_options} -DPARASOFT_CPPTEST -I.
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.connected.6x.projects=
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.dependency.files.paths=${project_loc}/Makefile
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.dsp.env.var.mode=ENV_PATCH_PREPEND_MODE
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.edg.multibyte.chars.is.source.handling=AUTO
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.evc.env.var.mode=ENV_PATCH_PREPEND_MODE
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.extractor.id=vs71_extractor_id
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.linker.command.win32.x86=link.exe
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.linker.options.win32.x86=${cpptest\:original_options} ${cpptest\:project_lib_files}
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.make.command.line=make -i -B CXX\=${CPPTEST_SCAN} CC\=${CPPTEST_SCAN} LD\=${CPPTEST_SCAN}
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.make.scan.hash.code.validation=true
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.make.working.dir=${project_loc}
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.make_always_build=false
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.ode_auto_scan_mode=on_changes
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.ode_delete_bdf_postaction=false
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.ode_incremental_build=false
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.ode_options_dir=${project_loc}/cpptestscan.bdf
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.preference.store.version=1.1
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.run_orig_cmd_for_parallel_proj_bdf=true
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.runtime.location=${cpptest\:engine_loc}/runtime
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.synchronize_with_project_settings=true
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.test.case.location.patterns=*
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.test.ware.location=${workspace_loc}/.cpptest/${project_name}
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.vc71.configuration=CPPTEST_USE_ACTIVE_CONFIG
+Coursework/Coursework//com.parasoft.xtest.checkers.api.cpp.options.working.dir=${project_loc}
+project.path.d60bc246-36c0-487a-863e-625b0cf54b89=Coursework/Coursework
